@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body { 
+    min-height: 100vh; 
+    background-image: url("../iam/cool-background\ \(1\).png");
+}
+.logo{
+    width: 600px ;
+    height: 300px;
+    border: solid 1px black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left:  700px;
+    
+}
+.products{
+    width: 600px ;
+    height: 150px;
+    border: solid 1px black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left:  700px;
+}
+.contacts{
+    width: 600px ;
+    height: 150px;
+    border: solid 1px black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left:  700px;
+}
+.box{
+    border: solid 1px black;
+    width: 100px ;
+    height: 100px;
+    float: left;
+    padding: 50px;
+    margin: 20px;
+    
+
+}

@@ -1,11 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 body{
     background-image:url(../iam/abstract-white-cool-backgrounds-powerpoint.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    
-    
-
     
  }
 #container { 
@@ -33,29 +35,20 @@ li{
 }
 .logo{
     
-    margin-top: 250px;
+    margin-top: 150px;
+    font-family: 'Noto Kufi Arabic', sans-serif;
     
 }
-div img{
-    transition: transform 0.5s;
-}
+
 #footer{
     margin: 10px;
 }
 
 .icon img:hover{
     transform:translateY(-10px);
+    
+        transition: transform 0.5s;
+   
 }
-@media only secreen and (min-width:768px){
-    .ima{
-    display: block;
-    width:100%;
-    }
-    #container { 
-        width: 70%;
-        height: 50vh;
-        text-align: center;
-        flex: auto;
-    } 
-}
+
 

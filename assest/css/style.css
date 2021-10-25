@@ -43,7 +43,7 @@ div img{
     margin: 10px;
 }
 
-div img:hover{
+.icon img:hover{
     transform:translateY(-10px);
 }
 @media only secreen and (min-width:768px){

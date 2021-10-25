@@ -1,14 +1,10 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    
-}
+
 body{
     background-image:url(../iam/abstract-white-cool-backgrounds-powerpoint.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    display: fixed;
+    
+    
 
     
  }

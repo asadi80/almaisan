@@ -26,6 +26,10 @@ div{
     margin: 75px;
     flex: wrap;
 }
+.products h1{
+    font-family: 'Noto Kufi Arabic', sans-serif;
+    padding-bottom: 10px;
+}
 
 li{
     display: inline-block;
